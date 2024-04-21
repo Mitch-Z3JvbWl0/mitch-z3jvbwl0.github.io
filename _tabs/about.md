@@ -7,7 +7,7 @@ order: 4
 
 - Currently working as a Cyber Security Engineer specializing in Vulnerability Management, Cloud Security, and Forensic Analysis
 - I use this as a space to write about Cyber Security, Home Labs and Rockets
-- My aims and current projects are
+- My aims and current projects are building a cyber security home lab with a vulnerable network to practice red teaming, TryHackMe labs and building rockets & onboard flight computers to pass my UKRA certifications
 
 
 ### Socials
