@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/Mitch-Z3JvbWl0/mitch-z3jvbwl0.github.io/blob/main/assets/gromit-avatar.png
+avatar: assets/gromit-avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
