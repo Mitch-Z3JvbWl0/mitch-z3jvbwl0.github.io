@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Gromit's Lab # the main title
 
-tagline: 🔒 Cyber Security | 💻 Home Labs | 🚀 Rocketry  # it will display as the sub-title
+tagline: 🔒 Cyber Security | 💻 Home Lab | 🚀 Rocketry  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Cyber Security, Home lab and Rockets.
