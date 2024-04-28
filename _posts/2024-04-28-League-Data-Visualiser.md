@@ -25,12 +25,12 @@ We are transitioning our data handling from JSON to a more robust database desig
 #### Data Collection
 Using Python, we have scripted interactions with the Riot Games API to fetch match details. These details are stored in a MongoDB database, ensuring that we only add new matches to avoid duplicates.
 
-![API Interaction Diagram]()
+**Include API Interaction Diagram**
 
 #### Data Preparation and Analysis
 Data fetched includes various objectives achieved by each team during the match. We have structured this data into a Pandas DataFrame for detailed analysis.
 
-![Data Structure Overview]()
+**Include Data Structure Image**
 
 #### Predictive Modeling
 With the data prepared, we employed a Logistic Regression model, trained to predict match outcomes based on various game statistics. This involves:
@@ -41,13 +41,13 @@ With the data prepared, we employed a Logistic Regression model, trained to pred
 ### **Insights and Interpretation**
 Initial model evaluations show promising accuracy in predicting match outcomes. The model's coefficients provide insights into which factors most significantly influence a win or loss, guiding players on strategic focuses.
 
-![Model Coefficients Chart]()
+**Include Model Coefficients Chart**
 
 ### **Visualization and Reporting**
 We plan to use visualization techniques like heatmaps and scatterplots to present these insights effectively. These visualizations will help in understanding the relationships between game factors and match outcomes.
 
-![Heatmap of Game Factors]()
-![Scatterplot of Critical Moments]()
+**Include Heatmap of Game Factors**
+**Include Scatterplot of Critical Moments**
 
 ### **Future Directions**
 The next steps involve refining our model with more data and exploring other machine learning techniques such as XG Boost. Additionally, we aim to publish our findings and insights through comprehensive articles.
@@ -55,4 +55,4 @@ The next steps involve refining our model with more data and exploring other mac
 ### **Conclusion**
 By leveraging detailed match data and advanced analytics, the LeagueDataVisualiser seeks to empower players and teams in League of Legends with data-driven strategies that enhance their gameplay and decision-making.
 
-![Final Presentation Slide]()
+**Include Final Presentation Slide**
